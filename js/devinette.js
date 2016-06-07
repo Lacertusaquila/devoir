@@ -13,7 +13,6 @@ var solution = Math.floor(Math.random() * 100) + 1;
 // Décommentez temporairement cette ligne pour mieux vérifier le programme
 //console.log("(La solution est " + solution + ")");
 
-// TODO : complétez le programme
 var proposition;
 var tour = 0;
 var historique = "";
